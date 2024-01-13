@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Sun",
+    "url": "https://i.natgeofe.com/n/2f169ccb-e943-4772-8bd1-c92e79db64ab/gsfc_20171208_archive_e000922_orig.jpg?w=1084.125&h=1084.125",
+    "info": "The Sun is the star at the center of the Solar System. It is a massive, hot ball of plasma, inflated and heated by energy produced by nuclear fusion reactions at its core."
+  },
+  {
+    "id": 2,
+    "name": "Mercury",
+    "url": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTFFRKg1XEC7kNu58XVZi9vPh6F9ii0FhevCdEAUKyMEtSdx4HLLLNBMacXXX0Y0gLv",
+    "info": "Mercury is the planet that is nearest to the sun. It is the smallest planet in the solar system. It has no satellite of its own."
+  },
+  {
+    "id": 3,
+    "name": "Venus",
+    "url": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRtqGYOVmn7rlUHM47dO2MUGjjqp-NkClqUJ7QIxAwGAulcM5kvScQrZSkfglqd92ua",
+    "info": "Venus is the second planet in our solar system. It is the brightest planet in the night sky. It has no moon or satellite of its own."
+  },
+  {
+    "id": 4,
+    "name": "Earth",
+    "url": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS4DxT4urCgaTW6L_vFOL69AeAcXfnjMuX18bCmnIUFRvNtaPmiSbrflyVd057woKpL",
+    "info": "It is the third planet of the solar system and is the only planet on which life exists. It has only one moon."
+  },
+  {
+    "id": 5,
+    "name": "Mars",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+    "info": " The fourth planet of our solar system is Mars. It is also called the red planet. Mars has two satellites."
+  },
+
+  {
+    "id": 6,
+    "name": "Jupiter",
+    "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/11/hubble_s_observation_of_jupiter_in_2021/23797139-1-eng-GB/Hubble_s_observation_of_Jupiter_in_2021_pillars.jpg",
+    "info": "It has a large number of satellites and it is the largest planet in our solar system."
+  },
+  {
+    "id": 7,
+    "name": "Saturn",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif",
+    "info": " Saturn appears yellowish in color. It contains beautiful rings which are not visible with naked eyes."
+  },
+  {
+    "id": 8,
+    "name": "Uranus",
+    "url": "https://science.nasa.gov/_ipx/animated_true&w_1536&f_webp/https://images-assets.nasa.gov/image/PIA18182/PIA18182~orig.jpg%3Fw=1720%26h=1720%26fit=clip%26crop=faces%252Cfocalpoint",
+    "info": "It is the seventh planet in our solar system. It is the second outermost planet of the solar system."
+  },
+  {
+    "id": 9,
+    "name": "Neptune",
+    "url": "https://science.nasa.gov/_ipx/animated_true&w_4096&f_jpeg/https://images-assets.nasa.gov/image/PIA01492/PIA01492~large.jpg%3Fw=1920%26h=1917%26fit=clip%26crop=faces%252Cfocalpoint",
+    "info": "It is the last planet in our solar system."
+  }
+]

@@ -1,0 +1,105 @@
+#about {
+  width: 100%;
+  height: 90vh;
+  background: url("../assets/solar_system2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  padding: 3rem 0;
+
+  > h2 {
+    font: 700 2.5rem "Poppins";
+    width: fit-content;
+    border-bottom: 1px solid white;
+    padding: 0.5rem;
+    margin: auto;
+    color: white;
+  }
+  .infoP {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    > p {
+      font: 200 1.5rem "Rethink Sans";
+      text-align: center;
+      width: 70%;
+      padding: 35px 0 0 0;
+      color: white;
+      line-height: 30px;
+    }
+  }
+  > aside {
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    display: flex;
+    background-color: rgba(29, 169, 29, 0.893);
+    right: 20px;
+    transform: translateY(-270px);
+  }
+}
+
+.container {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  padding: 30px 30px;
+  width: 65vw;
+  overflow: hidden;
+  transform: translate(15%, 11%);
+  border-radius: 40px;
+}
+
+.imgContainer {
+  display: flex;
+  width: 70vw;
+  height: 50vh;
+}
+
+.panel {
+  height: 50vh;
+  border-radius: 40px;
+  color: white;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
+  transition: flex 0.7s ease-in;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.351);
+  > h3 {
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+  }
+}
+
+.panel.active {
+  flex: 4;
+  > h3 {
+    opacity: 1;
+    transition: opacity 0.4s ease 0.3s;
+  }
+}
+
+.tooltip {
+  position: absolute;
+  display: flex;
+  right: 42px;
+  transform: translateY(-258px);
+  height: auto;
+  width: 250px;
+  // background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 8px;
+  border-radius: 4px;
+  text-align: center;
+  font: 100 1.2rem "Rethink Sans";
+}
+
